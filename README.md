@@ -13,7 +13,7 @@
   - Machine Learning
   - Data Science 
   - Python
-- 💞️ I’m looking to collaborate on project in most (if not all) industries   
+- 💞️ I’m looking to collaborate on projects in most (if not all) industries   
 - 📫 How to reach me ... 
   - GitHub (here)
   - Email: benjamin.albrecht@protonmail.com
